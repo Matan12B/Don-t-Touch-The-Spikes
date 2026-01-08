@@ -15,19 +15,6 @@ Players compete in a free-for-all arena, trying to survive while avoiding spikes
 
 ---
 
-## Folder Structure
-
-Final_Project/
-│
-├── game_files/ # Game assets / scripts
-│ └── ...
-│
-├── .gitignore # Files Git should ignore
-├── README.md # Project overview
-└── requirements.txt # Python dependencies
-
----
-
 HOW TO RUN "DON'T TOUCH THE SPIKES ONLINE"
 
 1. Install Python 3.8 or higher
