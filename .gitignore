@@ -1,0 +1,39 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Byte-compiled / optimized / DLL files
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Editor / IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore compiled server/client executables (if any)
+*.exe
+*.dll
+*.so
+
+# Ignore node_modules if you ever use npm for frontend or server tools
+node_modules/
